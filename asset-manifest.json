@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yash-shidhaye/static/css/main.f855e6bc.css",
+    "main.js": "/yash-shidhaye/static/js/main.af45f4db.js",
+    "static/js/592.2d39bcae.chunk.js": "/yash-shidhaye/static/js/592.2d39bcae.chunk.js",
+    "static/media/logo.svg": "/yash-shidhaye/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yash-shidhaye/index.html",
+    "main.f855e6bc.css.map": "/yash-shidhaye/static/css/main.f855e6bc.css.map",
+    "main.af45f4db.js.map": "/yash-shidhaye/static/js/main.af45f4db.js.map",
+    "592.2d39bcae.chunk.js.map": "/yash-shidhaye/static/js/592.2d39bcae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.af45f4db.js"
+  ]
+}
